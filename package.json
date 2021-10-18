@@ -1,7 +1,7 @@
 {
-  "name": "quickstart-for-github-packages",
+  "name": "@t6751/quickstart-for-github-packages",
   "version": "1.0.0",
-  "description": "",
+  "description": "mmm",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/T6751/Quickstart-for-GitHub-Packages/issues"
   },
-  "homepage": "https://github.com/T6751/Quickstart-for-GitHub-Packages#readme"
+  "homepage": "https://github.com/T6751/Quickstart-for-GitHub-Packages#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
